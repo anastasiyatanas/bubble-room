@@ -1,48 +1,46 @@
+body{
+  background-image: url('img/bloom-close-up-colorful-85773.jpg');
+  
+}
 .masthead {
     height: 100vh;
     min-height: 500px;
-    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+    /* background-image: url('img/arrangement-art-artificial-1624259.jpg'); */
     background-size: cover;
     background-position: center;
+    color:white;
     background-repeat: no-repeat;
   }
-  #home {
-    height: 75vh;
-    min-height: 500px;
-    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
-    background-size: cover;
+  .content{
+    /* background-image: url('img/art-bloom-blooming-355728.jpg'); */
+    color: white;
+  }
+  /* #home {
+    height: 40vh;
     background-position: center;
     background-repeat: no-repeat;
-  }
+  }  */
   #services {
-    height: 75vh;
-    min-height: 500px;
-    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+    height: 50vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
   #about {
-    height: 75vh;
-    min-height: 500px;
-    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+    height: 40vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
   
   #contact {
-    height: 75vh;
-    min-height: 500px;
-    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+    height: 30vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
   #port {
-    height: 75vh;
-    min-height: 500px;
-    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+    height: 30vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
